@@ -1,0 +1,33 @@
+{
+  "name": "famous-polyfills",
+  "main": "index.js",
+  "homepage": "https://github.com/Famous/polyfills",
+  "authors": [
+    "Myles Borins <myles.borins@gmail.com>"
+  ],
+  "description": "polyfills for famo.us",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "famo.us"
+  ],
+  "license": "GPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "da441dc54f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "da441dc54fd066587821e52e840cce81655ea088"
+  },
+  "_source": "git@github.com:Famous/polyfills.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:Famous/polyfills.git"
+}
